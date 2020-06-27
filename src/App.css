@@ -1,0 +1,11 @@
+.todo-app-container {
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-top: 10rem;
+}
+
+.todo-app-container div {
+	padding: 0.25rem;
+}
